@@ -1,0 +1,18 @@
+body{
+    background: url("background.gif")no-repeat center/cover;
+}
+#img{
+    opacity: 0.5;
+}
+#font{
+    font-weight: bolder;
+    font-size: 1rem;
+}
+#textch{
+    color: white;
+    font-weight: bolder;
+}
+#city{
+    font-weight: bolder;
+
+}
